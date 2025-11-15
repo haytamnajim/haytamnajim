@@ -10,7 +10,6 @@
 
 ###
 
-<img align="left" height="149" src="https://imgur.com/U2080A1"  />
 
 ###
 
