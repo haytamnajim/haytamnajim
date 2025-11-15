@@ -65,13 +65,6 @@
 
 ---
 
-## 🐍 Snake Activity Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/snake.svg" alt="Snake animation">
-</p>
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haytamnajim.haytamnajim" />
 </p>
