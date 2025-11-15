@@ -1,81 +1,77 @@
-<h1 align="center">Hi 👋! I’m Haitam Najim — full-stack developer & AI workflow automation builder.</h1>
+<h1 align="center">Hi 👋! I’m <span style="color:#6A5ACD;">Haitam Najim</span> — Full-Stack Developer & AI Workflow Automation Builder</h1>
 
-<p align="center">My name is Haitam Najim, a full-stack developer specialized in AI workflow automation and modern web development.</p>
-
----
-
-<h2 align="left">About me</h2>
-
-<p align="left">
-✨ Creating bugs since 2023 (and fixing them with AI now 😄)<br>
-🤖 I'm currently learning: Advanced AI workflow automation, LLM integrations & cloud AI tools<br>
-🎯 Goals: Build scalable apps, automate complex workflows, and deliver powerful AI-driven solutions<br>
-⚡ Fun fact: I automate tasks before they even become a problem
+<p align="center">
+  Passionate about building modern apps, automating workflows with AI, and creating scalable digital solutions.
 </p>
 
 ---
 
-<h2 align="left">I code with</h2>
+## 🚀 About Me  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+- ✨ Creating bugs since 2023 (and fixing them with AI 😄)  
+- 🤖 Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**  
+- 🎯 Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
+- ⚡ Fun fact: I automate tasks before they even become a problem  
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+| Languages | Frameworks | Tools |
+|----------|------------|--------|
+| JavaScript | React | Git |
+| Python | Laravel | Docker |
+| PHP | Node.js | Slack |
+| SQL / NoSQL | Storybook | Figma |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,php,laravel,mysql,postgres,mongodb,docker,git,gitlab,figma,storybook" />
+
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haytamnajim&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytamnajim&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haytamnajim&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytamnajim&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 ---
 
-<h2 align="left">Let’s connect</h2>
+## 🌐 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/haytamnajim">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-  <a href="mailto:haytamnajim07@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
+
+<a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/haytamnajim?igsh=MWpmYXRscTQyNDhjYQ" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:haytamnajim07@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/snake.svg" alt="Snake animation">
+</p>
 
-<div align="center">
+---
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haytamnajim.haytamnajim" />
-</div>
+</p>
