@@ -1,32 +1,43 @@
 name: Generate Snake Animation
 
 on:
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        id: snake
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          python-version: '3.11'
 
-      - name: Upload Artifacts
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow imageio imageio-ffmpeg numpy
+
+      - name: Generate frames
+        # Adaptez la commande si vos scripts sont différents
+        run: |
+          mkdir -p output frames
+          python scripts/generate_snake.py --out frames
+
+      - name: Create animation (GIF or MP4)
+        run: |
+          # Exemple: création d'un GIF. Adaptez selon vos outils.
+          python scripts/make_gif.py frames output/snake.gif || \
+          ffmpeg -framerate 25 -i frames/frame_%04d.png -c:v libx264 -pix_fmt yuv420p output/snake.mp4
+
+      - name: Upload animation artifact
         uses: actions/upload-artifact@v4
         with:
-          name: snake-artifacts
-          path: dist
-
-      - name: Deploy to Output Branch
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
+          name: snake-animation
+          path: |
+            output/snake.gif
+            output/snake.mp4
