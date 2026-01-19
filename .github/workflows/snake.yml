@@ -2,33 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # يعمل تلقائياً كل 12 ساعة
-  workflow_dispatch: # يسمح لك بتشغيله يدوياً في أي وقت
+    - cron: "0 */12 * * *" # يعمل تلقائياً كل 12 ساعة لتحديث الـ 823 مساهمة
+  workflow_dispatch: # يسمح لك بالتشغيل اليدوي من تبويب Actions
   push:
     branches:
-      - main # يعمل عند كل تحديث في الفرع الرئيسي
+      - main
 
 jobs:
   generate:
     permissions: 
-      contents: write # صلاحيات الكتابة التي فعلتها في الإعدادات
+      contents: write # الصلاحية التي قمت بتفعيلها بنجاح
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      # توليد صور الثعبان مع ستايل ألوان مخصص
+      # توليد صور الثعبان مع تغيير ستايل المربعات والألوان
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # ستايل ملون: ثعبان أرجواني ونقاط خضراء زاهية
-            dist/github-contribution-grid-snake.svg?color_snake=#6A5ACD&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+            # نسخة ملونة: ثعبان أرجواني مع مربعات بتدرج أخضر زاهٍ
+            dist/github-contribution-grid-snake.svg?color_snake=#6A5ACD&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
             
-            # نسخة الوضع الليلي: ثعبان برتقالي متوهج
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange
+            # نسخة الوضع الليلي: ثعبان برتقالي مع تدرج ألوان متوهج
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      # رفع الصور إلى فرع output
+      # دفع الصور الناتجة إلى فرع output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
