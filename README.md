@@ -9,8 +9,7 @@
 ## 🚀 About Me  
 
 - ✨ Creating bugs since 2023 (and fixing them with AI 😄)  
-- 🤖 Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**  
-- 🎯 Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
+- 🤖 Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools** - 🎯 Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
 - ⚡ Fun fact: I automate tasks before they even become a problem  
 
 ---
@@ -30,6 +29,14 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,php,laravel,mysql,postgres,mongodb,docker,git,gitlab,figma,storybook" />
 
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/haytamnajim/haytamnajim/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
