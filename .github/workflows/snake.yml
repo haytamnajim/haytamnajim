@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *" # يعمل تلقائياً كل 12 ساعة
-  workflow_dispatch: # يسمح لك بتشغيله يدوياً
+  workflow_dispatch: # يسمح لك بتشغيله يدوياً في أي وقت
   push:
     branches:
       - main # يعمل عند كل تحديث في الفرع الرئيسي
@@ -11,21 +11,24 @@ on:
 jobs:
   generate:
     permissions: 
-      contents: write # يتطلب صلاحيات الكتابة التي فعلناها في الإعدادات
+      contents: write # صلاحيات الكتابة التي فعلتها في الإعدادات
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      # توليد صور الثعبان بصيغة SVG
+      # توليد صور الثعبان مع ستايل ألوان مخصص
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # ستايل ملون: ثعبان أرجواني ونقاط خضراء زاهية
+            dist/github-contribution-grid-snake.svg?color_snake=#6A5ACD&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+            
+            # نسخة الوضع الليلي: ثعبان برتقالي متوهج
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange
 
-      # رفع الصور الناتجة إلى فرع يسمى output
+      # رفع الصور إلى فرع output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
