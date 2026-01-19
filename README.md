@@ -34,11 +34,10 @@
 
 ---
 
-## 🐍 My Real Contribution Animation
 <div align="center">
-  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <h2>🐍 My Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats
