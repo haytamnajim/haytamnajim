@@ -36,7 +36,7 @@
 
 <div align="center">
   <h2>🐍 My Real Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 ---
 
