@@ -38,13 +38,14 @@
   <h2>🐍 My Real Contribution Snake</h2>
   <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haytamnajim&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytamnajim&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=haytamnajim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytamnajim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Langs" />
 </div>
 
 ---
