@@ -77,8 +77,9 @@
 
 ---
 
+## <img src="https://cdn-icons-png.flaticon.com/512/8160/8160941.png" width="35"/> My Real Contribution Snake
+
 <div align="center">
-  <h2>🐍 My Real Contribution Snake</h2>
   <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
