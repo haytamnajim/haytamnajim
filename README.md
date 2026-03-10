@@ -101,10 +101,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/haytamnajim?igsh=MWpmYXRscTQyNDhjYQ" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
-&nbsp;&nbsp;
 <a href="mailto:haytamnajim07@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
