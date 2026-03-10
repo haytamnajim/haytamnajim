@@ -111,10 +111,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=haytamnajim.haytamnajim" />
-</p>
-
-<p align="center">
-  <sub>Icons by <a href="https://www.flaticon.com">Flaticon</a></sub>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=haytamnajim.haytamnajim&left_color=blueviolet&right_color=6A5ACD&left_text=👁️ Visitors" />
+  &nbsp;&nbsp;
+  <a href="https://www.flaticon.com" target="_blank">
+    <img src="https://img.shields.io/badge/Icons_by-Flaticon-6A5ACD?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA&logoColor=white" />
+  </a>
+</div>
