@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me  
+## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me  
 - ✨ Creating bugs since 2023 (and fixing them with AI 😄)  
 - 🤖 Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**
 - 🎯 Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/6283/6283117.png" width="35"/> Tech Stack
 
 <div align="center">
   
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/7933/7933250.png" width="35"/> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterhst-prahlad-iyers-projects.vercel.app/api?username=haytamnajim&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## <img src="https://cdn-icons-png.flaticon.com/512/4207/4207232.png" width="35"/> Let's Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <sub>Icon by <a href="https://www.flaticon.com">Flaticon</a></sub>
+  <sub>Icons by <a href="https://www.flaticon.com">Flaticon</a></sub>
 </p>
