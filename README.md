@@ -111,15 +111,15 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/haytamnajim?igsh=MWpmYXRscTQyNDhjYQ" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:haytamnajim07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 </div>
 
