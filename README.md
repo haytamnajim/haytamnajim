@@ -11,7 +11,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me  
 - <img src="https://cdn-icons-png.flaticon.com/512/13298/13298257.png" width="20"/> Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**
 - <img src="https://cdn-icons-png.flaticon.com/512/3077/3077054.png" width="20"/> Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
-- <img src="https://cdn-icons-png.flaticon.com/512/11714/11714277.png" width="20"/> Creating bugs since 2023 (and fixing them with AI 😄)  
+- <img src="https://cdn-icons-png.flaticon.com/512/11714/11714277.png" width="20"/> Creating bugs since 2023 (and fixing them with AI)  
 - <img src="https://cdn-icons-png.flaticon.com/512/5650/5650669.png" width="20"/> Fun fact: I automate tasks before they even become a problem  
 
 ---
