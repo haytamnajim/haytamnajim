@@ -8,11 +8,15 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me  
-- ✨ Creating bugs since 2023 (and fixing them with AI 😄)  
-- 🤖 Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**
-- 🎯 Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
-- ⚡ Fun fact: I automate tasks before they even become a problem  
+## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me
+
+<img src="https://cdn-icons-png.flaticon.com/512/1063/1063253.png" width="20"/> Creating bugs since 2023 (and fixing them with AI 😄)
+
+<img src="https://cdn-icons-png.flaticon.com/512/3976/3976626.png" width="20"/> Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**
+
+<img src="https://cdn-icons-png.flaticon.com/512/1085/1085803.png" width="20"/> Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions
+
+<img src="https://cdn-icons-png.flaticon.com/512/1355/1355870.png" width="20"/> Fun fact: I automate tasks before they even become a problem
 
 ---
 
