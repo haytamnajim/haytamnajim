@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/7933/7933250.png" width="35"/> GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/1011/1011579.png" width="35"/> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterhst-prahlad-iyers-projects.vercel.app/api?username=haytamnajim&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
