@@ -71,7 +71,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,php,laravel,tailwind,docker,mongodb,postgres,mysql,figma,git,gitlab&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,php,laravel,tailwind,docker,mongodb,postgres,mysql,figma,git,gitlab&perline=15" />
 
 </div>
 
