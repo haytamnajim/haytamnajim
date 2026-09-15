@@ -59,6 +59,17 @@
 </td>
 <td align="center" width="200">
 
+### 🤖 Automation
+
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-9B59B6?style=flat-square&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
