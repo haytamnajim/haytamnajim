@@ -89,7 +89,7 @@
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=haytamnajim&theme=dark&show_icons=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytamnajim&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Langs" />
+  <img src="https://ghstats.dev/api/card?username=haytamnajim&theme=dark&show_icons=true&layout=compact" height="165" alt="Top Langs" />
 </div>
 
 ---
