@@ -94,15 +94,39 @@
 
 ---
 
+## <img src="https://cdn-icons-png.flaticon.com/512/4207/4207258.png" width="35"/> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haytamnajim&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/11354/11354980.png" width="35"/> Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haytamnajim&theme=radical&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/6049/6049432.png" width="35"/> Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=haytamnajim&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/4207/4207232.png" width="35"/> Let's Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="80"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:haytamnajim07@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="80"/>
 </a>
 </div>
 
