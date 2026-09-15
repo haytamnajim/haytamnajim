@@ -107,6 +107,14 @@
 
 ---
 
+## <img src="https://cdn-icons-png.flaticon.com/512/11354/11354980.png" width="35"/> Activity Overview
+
+<div align="center">
+  <img src="https://ghstats.dev/api/profile?username=haytamnajim&theme=dark" alt="Activity Overview" />
+</div>
+
+---
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/1011/1011579.png" width="35"/> GitHub Stats
 
 <div align="center">
