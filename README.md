@@ -89,7 +89,7 @@
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=haytamnajim&theme=dark&show_icons=true" height="165" alt="GitHub Stats" />
-  <img src="https://ghstats.dev/api/card?username=haytamnajim&theme=dark&show_icons=true&layout=compact" height="165" alt="Top Langs" />
+  <img src="https://ghstats.dev/api/card?username=haytamnajim&theme=dark&layout=donut" height="165" alt="Top Langs" />
 </div>
 
 ---
