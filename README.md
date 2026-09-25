@@ -2,17 +2,19 @@
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" width="60"/>
   I'm <span style="color:#6A5ACD;">Haitam Najim</span> — Full-Stack Developer & AI Workflow Automation Builder
 </h1>
+
 <p align="center">
   Passionate about building modern apps, automating workflows with AI, and creating scalable digital solutions.
 </p>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me  
+## <img src="https://cdn-icons-png.flaticon.com/512/7865/7865888.png" width="35"/> About Me
+
 - <img src="https://cdn-icons-png.flaticon.com/512/13298/13298257.png" width="20"/> Currently learning: **AI workflow automation**, **LLM integrations**, **Cloud automation tools**
-- <img src="https://cdn-icons-png.flaticon.com/512/3077/3077054.png" width="20"/> Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions  
-- <img src="https://cdn-icons-png.flaticon.com/512/11714/11714277.png" width="20"/> Creating bugs since 2023 (and fixing them with AI)  
-- <img src="https://cdn-icons-png.flaticon.com/512/5650/5650669.png" width="20"/> Fun fact: I automate tasks before they even become a problem  
+- <img src="https://cdn-icons-png.flaticon.com/512/3077/3077054.png" width="20"/> Goals: Build scalable apps, automate complex workflows, deliver powerful AI-driven solutions
+- <img src="https://cdn-icons-png.flaticon.com/512/11714/11714277.png" width="20"/> Creating bugs since 2023 (and fixing them with AI)
+- <img src="https://cdn-icons-png.flaticon.com/512/5650/5650669.png" width="20"/> Fun fact: I automate tasks before they even become a problem
 
 ---
 
@@ -33,6 +35,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
+
 <td align="center" width="200">
 
 ### 🧩 Frameworks
@@ -45,6 +48,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="200">
 
@@ -57,6 +61,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 </td>
+
 <td align="center" width="200">
 
 ### 🤖 Automation
@@ -69,6 +74,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="200">
 
@@ -79,6 +85,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
+
 <td align="center" width="200">
 
 ### 🧠 AI & ML
@@ -103,6 +110,113 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/haytamnajim/haytamnajim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 🟩 My Name in Contributions
+
+<div align="center">
+
+<!-- HAITAM Pixel Art -->
+<svg width="850" height="190" viewBox="0 0 850 190" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- H -->
+  <g fill="#39d353">
+    <rect x="20" y="20" width="18" height="18"/>
+    <rect x="20" y="44" width="18" height="18"/>
+    <rect x="20" y="68" width="18" height="18"/>
+    <rect x="20" y="92" width="18" height="18"/>
+    <rect x="20" y="116" width="18" height="18"/>
+
+    <rect x="68" y="20" width="18" height="18"/>
+    <rect x="68" y="44" width="18" height="18"/>
+    <rect x="68" y="68" width="18" height="18"/>
+    <rect x="68" y="92" width="18" height="18"/>
+    <rect x="68" y="116" width="18" height="18"/>
+
+    <rect x="44" y="68" width="18" height="18"/>
+  </g>
+
+  <!-- A -->
+  <g fill="#39d353">
+    <rect x="120" y="20" width="18" height="18"/>
+    <rect x="144" y="20" width="18" height="18"/>
+    <rect x="168" y="20" width="18" height="18"/>
+
+    <rect x="120" y="44" width="18" height="18"/>
+    <rect x="168" y="44" width="18" height="18"/>
+
+    <rect x="120" y="68" width="18" height="18"/>
+    <rect x="144" y="68" width="18" height="18"/>
+    <rect x="168" y="68" width="18" height="18"/>
+
+    <rect x="120" y="92" width="18" height="18"/>
+    <rect x="168" y="92" width="18" height="18"/>
+
+    <rect x="120" y="116" width="18" height="18"/>
+    <rect x="168" y="116" width="18" height="18"/>
+  </g>
+
+  <!-- I -->
+  <g fill="#39d353">
+    <rect x="220" y="20" width="42" height="18"/>
+    <rect x="232" y="44" width="18" height="18"/>
+    <rect x="232" y="68" width="18" height="18"/>
+    <rect x="232" y="92" width="18" height="18"/>
+    <rect x="220" y="116" width="42" height="18"/>
+  </g>
+
+  <!-- T -->
+  <g fill="#39d353">
+    <rect x="290" y="20" width="66" height="18"/>
+    <rect x="314" y="44" width="18" height="18"/>
+    <rect x="314" y="68" width="18" height="18"/>
+    <rect x="314" y="92" width="18" height="18"/>
+    <rect x="314" y="116" width="18" height="18"/>
+  </g>
+
+  <!-- A -->
+  <g fill="#39d353">
+    <rect x="385" y="20" width="18" height="18"/>
+    <rect x="409" y="20" width="18" height="18"/>
+    <rect x="433" y="20" width="18" height="18"/>
+
+    <rect x="385" y="44" width="18" height="18"/>
+    <rect x="433" y="44" width="18" height="18"/>
+
+    <rect x="385" y="68" width="18" height="18"/>
+    <rect x="409" y="68" width="18" height="18"/>
+    <rect x="433" y="68" width="18" height="18"/>
+
+    <rect x="385" y="92" width="18" height="18"/>
+    <rect x="433" y="92" width="18" height="18"/>
+
+    <rect x="385" y="116" width="18" height="18"/>
+    <rect x="433" y="116" width="18" height="18"/>
+  </g>
+
+  <!-- M -->
+  <g fill="#39d353">
+    <rect x="475" y="20" width="18" height="18"/>
+    <rect x="475" y="44" width="18" height="18"/>
+    <rect x="475" y="68" width="18" height="18"/>
+    <rect x="475" y="92" width="18" height="18"/>
+    <rect x="475" y="116" width="18" height="18"/>
+
+    <rect x="499" y="44" width="18" height="18"/>
+    <rect x="523" y="68" width="18" height="18"/>
+    <rect x="547" y="44" width="18" height="18"/>
+
+    <rect x="571" y="20" width="18" height="18"/>
+    <rect x="571" y="44" width="18" height="18"/>
+    <rect x="571" y="68" width="18" height="18"/>
+    <rect x="571" y="92" width="18" height="18"/>
+    <rect x="571" y="116" width="18" height="18"/>
+  </g>
+
+</svg>
+
 </div>
 
 ---
