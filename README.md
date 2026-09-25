@@ -118,104 +118,7 @@
 
 <div align="center">
 
-<!-- HAITAM Pixel Art -->
-<svg width="850" height="190" viewBox="0 0 850 190" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- H -->
-  <g fill="#39d353">
-    <rect x="20" y="20" width="18" height="18"/>
-    <rect x="20" y="44" width="18" height="18"/>
-    <rect x="20" y="68" width="18" height="18"/>
-    <rect x="20" y="92" width="18" height="18"/>
-    <rect x="20" y="116" width="18" height="18"/>
-
-    <rect x="68" y="20" width="18" height="18"/>
-    <rect x="68" y="44" width="18" height="18"/>
-    <rect x="68" y="68" width="18" height="18"/>
-    <rect x="68" y="92" width="18" height="18"/>
-    <rect x="68" y="116" width="18" height="18"/>
-
-    <rect x="44" y="68" width="18" height="18"/>
-  </g>
-
-  <!-- A -->
-  <g fill="#39d353">
-    <rect x="120" y="20" width="18" height="18"/>
-    <rect x="144" y="20" width="18" height="18"/>
-    <rect x="168" y="20" width="18" height="18"/>
-
-    <rect x="120" y="44" width="18" height="18"/>
-    <rect x="168" y="44" width="18" height="18"/>
-
-    <rect x="120" y="68" width="18" height="18"/>
-    <rect x="144" y="68" width="18" height="18"/>
-    <rect x="168" y="68" width="18" height="18"/>
-
-    <rect x="120" y="92" width="18" height="18"/>
-    <rect x="168" y="92" width="18" height="18"/>
-
-    <rect x="120" y="116" width="18" height="18"/>
-    <rect x="168" y="116" width="18" height="18"/>
-  </g>
-
-  <!-- I -->
-  <g fill="#39d353">
-    <rect x="220" y="20" width="42" height="18"/>
-    <rect x="232" y="44" width="18" height="18"/>
-    <rect x="232" y="68" width="18" height="18"/>
-    <rect x="232" y="92" width="18" height="18"/>
-    <rect x="220" y="116" width="42" height="18"/>
-  </g>
-
-  <!-- T -->
-  <g fill="#39d353">
-    <rect x="290" y="20" width="66" height="18"/>
-    <rect x="314" y="44" width="18" height="18"/>
-    <rect x="314" y="68" width="18" height="18"/>
-    <rect x="314" y="92" width="18" height="18"/>
-    <rect x="314" y="116" width="18" height="18"/>
-  </g>
-
-  <!-- A -->
-  <g fill="#39d353">
-    <rect x="385" y="20" width="18" height="18"/>
-    <rect x="409" y="20" width="18" height="18"/>
-    <rect x="433" y="20" width="18" height="18"/>
-
-    <rect x="385" y="44" width="18" height="18"/>
-    <rect x="433" y="44" width="18" height="18"/>
-
-    <rect x="385" y="68" width="18" height="18"/>
-    <rect x="409" y="68" width="18" height="18"/>
-    <rect x="433" y="68" width="18" height="18"/>
-
-    <rect x="385" y="92" width="18" height="18"/>
-    <rect x="433" y="92" width="18" height="18"/>
-
-    <rect x="385" y="116" width="18" height="18"/>
-    <rect x="433" y="116" width="18" height="18"/>
-  </g>
-
-  <!-- M -->
-  <g fill="#39d353">
-    <rect x="475" y="20" width="18" height="18"/>
-    <rect x="475" y="44" width="18" height="18"/>
-    <rect x="475" y="68" width="18" height="18"/>
-    <rect x="475" y="92" width="18" height="18"/>
-    <rect x="475" y="116" width="18" height="18"/>
-
-    <rect x="499" y="44" width="18" height="18"/>
-    <rect x="523" y="68" width="18" height="18"/>
-    <rect x="547" y="44" width="18" height="18"/>
-
-    <rect x="571" y="20" width="18" height="18"/>
-    <rect x="571" y="44" width="18" height="18"/>
-    <rect x="571" y="68" width="18" height="18"/>
-    <rect x="571" y="92" width="18" height="18"/>
-    <rect x="571" y="116" width="18" height="18"/>
-  </g>
-
-</svg>
+<img src="./haitam.svg" alt="HAITAM" width="900"/>
 
 </div>
 
@@ -241,13 +144,17 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/4207/4207232.png" width="35"/> Let's Connect
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="80"/>
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:haytamnajim07@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="80"/>
 </a>
+
 </div>
 
 ---
@@ -255,7 +162,9 @@
 <div align="center">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=haytamnajim.haytamnajim&left_color=6A5ACD&right_color=blueviolet&left_text=Visitors)
+
 &nbsp;&nbsp;
+
 ![Flaticon](https://img.shields.io/badge/Icons%20by-Flaticon-6A5ACD?style=flat-square&logoColor=white)
 
 </div>
