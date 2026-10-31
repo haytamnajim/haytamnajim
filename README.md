@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" width="60"/>
   I'm <span style="color:#6A5ACD;">Haitam Najim</span> — Full-Stack Developer & AI Workflow Automation Builder
 </h1>
@@ -145,15 +145,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="80"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:haytamnajim07@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="80"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/haitam-najim-653b8630a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:haytamnajim07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+  </a>
+</p>
 
 </div>
 
